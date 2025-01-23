@@ -1,0 +1,66 @@
+@model HostelManagementSystem.Models.HomeViewModel
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <h2>Welcome to the Hostel Management System</h2>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h5>Total Rooms</h5>
+                </div>
+                <div class="card-body">
+                    <p>@Model.TotalRooms</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-header bg-success text-white">
+                    <h5>Available Rooms</h5>
+                </div>
+                <div class="card-body">
+                    <p>@Model.AvailableRooms</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-header bg-warning text-white">
+                    <h5>Booked Rooms</h5>
+                </div>
+                <div class="card-body">
+                    <p>@Model.BookedRooms</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header bg-info text-white">
+                    <h5>Recent Bookings</h5>
+                </div>
+                <div class="card-body">
+                    <ul class="list-group">
+                        @foreach (var booking in Model.RecentBookings)
+                        {
+                            <li class="list-group-item">
+                                <strong>@booking.ResidentName</strong> - Room: @booking.RoomNumber
+                                <br />
+                                <small>Booking Date: @booking.BookingDate.ToString("yyyy-MM-dd")</small>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

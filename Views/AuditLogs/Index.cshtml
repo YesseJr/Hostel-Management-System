@@ -1,0 +1,22 @@
+@model IEnumerable<AuditLog>
+
+<h2>Audit Logs</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Action</th>
+            <th>Performed By</th>
+            <th>Timestamp</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var log in Model)
+        {
+            <tr>
+                <td>@log.Action</td>
+                <td>@log.PerformedBy</td>
+                <td>@log.Timestamp</td>
+            </tr>
+        }
+    </tbody>
+</table>

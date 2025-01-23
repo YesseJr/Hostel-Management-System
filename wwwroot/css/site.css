@@ -1,0 +1,88 @@
+/* styles.css */
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating>.form-control-plaintext::placeholder,
+.form-floating>.form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating>.form-control-plaintext:focus::placeholder,
+.form-floating>.form-control:focus::placeholder {
+  text-align: start;
+}
+
+.hero-section {
+  background: url('/path/to/your/image.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 20px 0;
+  /* Adjusted padding to remove space */
+  color: white;
+  margin-top: 0;
+  /* Remove top margin */
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero-section p {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  /* Adjusted margin to remove space */
+}
+
+.hero-section .btn {
+  font-size: 1rem;
+  padding: 8px 16px;
+  margin: 5px;
+  /* Adjusted margin to remove space */
+}
+
+.card {
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-header {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.card-body ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.card-body ul li {
+  margin-bottom: 10px;
+}

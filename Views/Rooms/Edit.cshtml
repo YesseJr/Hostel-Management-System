@@ -1,0 +1,19 @@
+@model HostelManagementSystem.Models.Room
+
+<h2>Edit Room</h2>
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" />
+    </div>
+    <div>
+        <label>Capacity</label>
+        <input asp-for="Capacity" />
+    </div>
+    <div>
+        <label>Is Available</label>
+        <input asp-for="IsAvailable" type="checkbox" />
+    </div>
+    <button type="submit">Save</button>
+</form>

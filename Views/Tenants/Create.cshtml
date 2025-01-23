@@ -1,0 +1,14 @@
+@model HostelManagementSystem.Models.Tenant
+
+<h1>Add Tenant</h1>
+<form asp-action="Create">
+    <label>Name:</label>
+    <input asp-for="Name" />
+    <label>Email:</label>
+    <input asp-for="Email" type="email" />
+    <label>Phone:</label>
+    <input asp-for="Phone" type="tel" />
+    <label>Room:</label>
+    <select asp-for="RoomId" asp-items="ViewBag.RoomId"></select>
+    <button type="submit">Save</button>
+</form>

@@ -1,0 +1,9 @@
+@model HostelManagementSystem.Models.Tenant
+
+<h1>Delete Tenant</h1>
+<p>Are you sure you want to delete @Model.Name?</p>
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit">Yes, Delete</button>
+    <a href="/Tenant">Cancel</a>
+</form>

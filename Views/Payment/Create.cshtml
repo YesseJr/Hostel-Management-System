@@ -1,0 +1,14 @@
+@model HostelManagementSystem.Models.Payment
+
+<h1>Add Payment</h1>
+<form asp-action="Create">
+    <label>Tenant:</label>
+    <select asp-for="TenantId" asp-items="ViewBag.TenantId"></select>
+    <label>Amount:</label>
+    <input asp-for="Amount" type="number" step="0.01" />
+    <label>Payment Method:</label>
+    <input asp-for="Method" />
+    <label>Transaction ID:</label>
+    <input asp-for="TransactionId" />
+    <button type="submit">Save</button>
+</form>

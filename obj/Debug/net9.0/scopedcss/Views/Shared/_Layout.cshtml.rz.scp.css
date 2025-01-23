@@ -1,0 +1,116 @@
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-a8h0acvqya] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-a8h0acvqya] {
+  color: #0077cc;
+}
+
+.btn-primary[b-a8h0acvqya] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-a8h0acvqya], .nav-pills .show > .nav-link[b-a8h0acvqya] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-a8h0acvqya] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-a8h0acvqya] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-a8h0acvqya] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-a8h0acvqya] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-a8h0acvqya] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* styles.css */
+html[b-a8h0acvqya] {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html[b-a8h0acvqya] {
+    font-size: 16px;
+  }
+}
+
+.btn:focus[b-a8h0acvqya],
+.btn:active:focus[b-a8h0acvqya],
+.btn-link.nav-link:focus[b-a8h0acvqya],
+.form-control:focus[b-a8h0acvqya],
+.form-check-input:focus[b-a8h0acvqya] {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html[b-a8h0acvqya] {
+  position: relative;
+  min-height: 100%;
+}
+
+body[b-a8h0acvqya] {
+  margin-bottom: 60px;
+}
+
+.form-floating>.form-control-plaintext[b-a8h0acvqya]::placeholder,
+.form-floating>.form-control[b-a8h0acvqya]::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating>.form-control-plaintext:focus[b-a8h0acvqya]::placeholder,
+.form-floating>.form-control:focus[b-a8h0acvqya]::placeholder {
+  text-align: start;
+}
+
+.hero-section[b-a8h0acvqya] {
+  background: url('/path/to/your/image.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 50px 0;
+  color: white;
+}
+
+.hero-section h1[b-a8h0acvqya] {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero-section p[b-a8h0acvqya] {
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.hero-section .btn[b-a8h0acvqya] {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+}
+
+.card[b-a8h0acvqya] {
+  transition: transform 0.3s;
+}
+
+.card:hover[b-a8h0acvqya] {
+  transform: scale(1.05);
+}

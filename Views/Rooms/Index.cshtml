@@ -1,0 +1,28 @@
+@model IEnumerable<HostelManagementSystem.Models.Room>
+
+<h2>Room List</h2>
+<a asp-action="Create">Add New Room</a>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Capacity</th>
+            <th>Availability</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var room in Model)
+        {
+            <tr>
+                <td>@room.Name</td>
+                <td>@room.Capacity</td>
+                <td>@(room.IsAvailable ? "Available" : "Occupied")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@room.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@room.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
