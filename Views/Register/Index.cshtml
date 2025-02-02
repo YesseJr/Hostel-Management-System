@@ -1,22 +1,62 @@
-@model RegisterModel
+@model HostelManagementSystem.Models.RegisterModel
 
-<h2>Register</h2>
-<form asp-action="Index">
-    <div>
-        <label asp-for="FullName"></label>
-        <input asp-for="FullName" type="text" />
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-lg p-4 bg-light">
+                <h2 class="text-center text-primary mb-4">Create Your Account</h2>
+                <form asp-action="Index" method="post">
+                    <div class="form-group mb-3">
+                        <!--<label asp-for="FullName" class="form-label fw-bold"></label>-->
+                        <input asp-for="FullName" class="form-control" placeholder="Enter your full name" />
+                        <span asp-validation-for="FullName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <!--<label asp-for="Email" class="form-label fw-bold"></label>-->
+                        <input asp-for="Email" class="form-control" placeholder="Enter your email address" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <!--<label asp-for="Password" class="form-label fw-bold"></label>-->
+                        <input asp-for="Password" type="password" class="form-control"
+                            placeholder="Enter a secure password" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <!--<label asp-for="ConfirmPassword" class="form-label fw-bold"></label>-->
+                        <input asp-for="ConfirmPassword" type="password" class="form-control"
+                            placeholder="Confirm your password" />
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div>
+                    <div class="d-grid gap-2 mt-4">
+                        <button type="submit" class="btn btn-primary btn-lg">Sign Up</button>
+                    </div>
+                    <div class="form-footer">
+                        <p>Already have an account? <a href="../Login/Index">Login</a></p>
+                    </div>
+                </form>
+            </div>
+        </div>
     </div>
-    <div>
-        <label asp-for="Email"></label>
-        <input asp-for="Email" type="email" />
-    </div>
-    <div>
-        <label asp-for="Password"></label>
-        <input asp-for="Password" type="password" />
-    </div>
-    <div>
-        <label asp-for="ConfirmPassword"></label>
-        <input asp-for="ConfirmPassword" type="password" />
-    </div>
-    <button type="submit">Register</button>
-</form>
+</div>
+
+<style>
+    .form-footer {
+        margin-top: 15px;
+        font-size: 0.9rem;
+    }
+
+    .form-footer a {
+        color: #3498db;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .form-footer a:hover {
+        color: #2980b9;
+    }
+
+    .form-footer p {
+        margin-top: 10px;
+    }
+</style>

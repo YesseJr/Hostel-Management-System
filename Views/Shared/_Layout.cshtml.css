@@ -44,7 +44,7 @@ button.accept-policy {
   bottom: 0;
   width: 100%;
   white-space: nowrap;
-  line-height: 60px;
+  line-height: 40px;
 }
 /* styles.css */
 html {
@@ -114,3 +114,19 @@ body {
 .card:hover {
   transform: scale(1.05);
 }
+
+ /* Mobile responsiveness */
+ @media only screen and (max-width: 576px) {
+   .login-container {
+     padding: 20px;
+     max-width: 90%;
+   }
+
+   .login-title {
+     font-size: 2rem;
+   }
+
+   .btn {
+     font-size: 1rem;
+   }
+ }

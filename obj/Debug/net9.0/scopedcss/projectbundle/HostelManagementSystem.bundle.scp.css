@@ -45,7 +45,7 @@ button.accept-policy[b-a8h0acvqya] {
   bottom: 0;
   width: 100%;
   white-space: nowrap;
-  line-height: 60px;
+  line-height: 40px;
 }
 /* styles.css */
 html[b-a8h0acvqya] {
@@ -115,3 +115,19 @@ body[b-a8h0acvqya] {
 .card:hover[b-a8h0acvqya] {
   transform: scale(1.05);
 }
+
+ /* Mobile responsiveness */
+ @media only screen and (max-width: 576px) {
+   .login-container[b-a8h0acvqya] {
+     padding: 20px;
+     max-width: 90%;
+   }
+
+   .login-title[b-a8h0acvqya] {
+     font-size: 2rem;
+   }
+
+   .btn[b-a8h0acvqya] {
+     font-size: 1rem;
+   }
+ }

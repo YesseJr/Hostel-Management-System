@@ -11,13 +11,14 @@
     <form asp-action="Index" method="post" class="login-form">
         <div class="form-group">
             <label asp-for="Email" class="control-label"></label>
-            <input asp-for="Email" class="form-control" placeholder="Your Email Address" />
+            <input asp-for="Email" class="form-control" placeholder="Your Email Address" autocomplete="email" />
             <span asp-validation-for="Email" class="text-danger"></span>
         </div>
 
         <div class="form-group">
-            <label asp-for="Password" class="control-label"></label>
-            <input asp-for="Password" class="form-control" type="password" placeholder="Your Password" />
+           <label asp-for="Password" class="control-label"></label>
+            <input asp-for="Password" class="form-control" type="password" placeholder="Your Password"
+                autocomplete="current-password" />
             <span asp-validation-for="Password" class="text-danger"></span>
         </div>
 
@@ -27,7 +28,7 @@
 
         <div class="form-footer">
             <a href="#">Forgot Password?</a>
-            <p>Don't have an account? <a href="#">Sign Up</a></p>
+            <p>Don't have an account? <a href="../Register/Index">Sign Up</a></p>
         </div>
     </form>
 </div>
@@ -48,6 +49,7 @@
         font-size: 2.5rem;
         font-weight: 700;
         margin-bottom: 10px;
+        color: #333;
     }
 
     .login-form {
@@ -64,6 +66,7 @@
         font-size: 1rem;
         border-radius: 5px;
         border: 1px solid #ddd;
+        width: 100%;
     }
 
     .form-control:focus {
@@ -106,5 +109,6 @@
 
     .form-footer p {
         margin-top: 10px;
+        color: #555;
     }
 </style>

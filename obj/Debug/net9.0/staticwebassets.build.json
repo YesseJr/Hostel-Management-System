@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rrPe9KLMpgXyvvrERZlEzV8kHcanlPJemOP4TSiz6RQ=",
+  "Hash": "fQ7fDd2S/wZoSz5jpEwF3AEKMUHTtcefxxBcoH/wjoo=",
   "Source": "HostelManagementSystem",
   "BasePath": "_content/HostelManagementSystem",
   "Mode": "Default",
@@ -479,12 +479,12 @@
       "OriginalItemSpec": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\du6jjzia34-20l7toza8b.gz",
+      "Identity": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\du6jjzia34-45y6jxkdap.gz",
       "SourceId": "HostelManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/HostelManagementSystem",
-      "RelativePath": "css/site#[.{fingerprint=20l7toza8b}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=45y6jxkdap}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -493,8 +493,8 @@
       "RelatedAsset": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "oan5gzogfe",
-      "Integrity": "0P5ogPNHeyKKRzFiW63aeDim4JpSXRxNV+fEB+4ZzE8=",
+      "Fingerprint": "eud2ya0n4f",
+      "Integrity": "asNEHgk5FE3T5GpmPOnKh1L3E6Lqv6WRgAOVanUlltM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\wwwroot\\css\\site.css"
@@ -878,12 +878,12 @@
       "OriginalItemSpec": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\occp3wl539-v4v89suq22.gz",
+      "Identity": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\occp3wl539-ctkl3zf272.gz",
       "SourceId": "HostelManagementSystem",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/HostelManagementSystem",
-      "RelativePath": "HostelManagementSystem#[.{fingerprint=v4v89suq22}]!.bundle.scp.css.gz",
+      "RelativePath": "HostelManagementSystem#[.{fingerprint=ctkl3zf272}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -892,8 +892,8 @@
       "RelatedAsset": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HostelManagementSystem.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1enqmhfu28",
-      "Integrity": "F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA=",
+      "Fingerprint": "zuvo33vfh4",
+      "Integrity": "tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HostelManagementSystem.bundle.scp.css"
@@ -1088,12 +1088,12 @@
       "OriginalItemSpec": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\u47xx5fx4r-v4v89suq22.gz",
+      "Identity": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\u47xx5fx4r-ctkl3zf272.gz",
       "SourceId": "HostelManagementSystem",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/HostelManagementSystem",
-      "RelativePath": "HostelManagementSystem#[.{fingerprint=v4v89suq22}]?.styles.css.gz",
+      "RelativePath": "HostelManagementSystem#[.{fingerprint=ctkl3zf272}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1102,8 +1102,8 @@
       "RelatedAsset": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HostelManagementSystem.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1enqmhfu28",
-      "Integrity": "F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA=",
+      "Fingerprint": "zuvo33vfh4",
+      "Integrity": "tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HostelManagementSystem.styles.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "v4v89suq22",
-      "Integrity": "n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA=",
+      "Fingerprint": "ctkl3zf272",
+      "Integrity": "oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HostelManagementSystem.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "v4v89suq22",
-      "Integrity": "n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA=",
+      "Fingerprint": "ctkl3zf272",
+      "Integrity": "oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HostelManagementSystem.bundle.scp.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "20l7toza8b",
-      "Integrity": "ErMNVMP7oPta/3qvG+msqa5D0DvAN35paf9UFjrR/c4=",
+      "Fingerprint": "45y6jxkdap",
+      "Integrity": "qHawhWc15CT+TLnUySrfPVHeqxz1EqEFh73Q9fRO16g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.20l7toza8b.css",
-      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\du6jjzia34-20l7toza8b.gz",
+      "Route": "css/site.45y6jxkdap.css",
+      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\du6jjzia34-45y6jxkdap.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001385041551"
+          "Quality": "0.001187648456"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "721"
+          "Value": "841"
         },
         {
           "Name": "ETag",
-          "Value": "\"0P5ogPNHeyKKRzFiW63aeDim4JpSXRxNV+fEB+4ZzE8=\""
+          "Value": "\"asNEHgk5FE3T5GpmPOnKh1L3E6Lqv6WRgAOVanUlltM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 05:30:39 GMT"
+          "Value": "Sun, 02 Feb 2025 12:07:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ErMNVMP7oPta/3qvG+msqa5D0DvAN35paf9UFjrR/c4=\""
+          "Value": "W/\"qHawhWc15CT+TLnUySrfPVHeqxz1EqEFh73Q9fRO16g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "20l7toza8b"
+          "Value": "45y6jxkdap"
         },
         {
           "Name": "label",
@@ -2786,12 +2786,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ErMNVMP7oPta/3qvG+msqa5D0DvAN35paf9UFjrR/c4="
+          "Value": "sha256-qHawhWc15CT+TLnUySrfPVHeqxz1EqEFh73Q9fRO16g="
         }
       ]
     },
     {
-      "Route": "css/site.20l7toza8b.css",
+      "Route": "css/site.45y6jxkdap.css",
       "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1786"
+          "Value": "2102"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2809,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ErMNVMP7oPta/3qvG+msqa5D0DvAN35paf9UFjrR/c4=\""
+          "Value": "\"qHawhWc15CT+TLnUySrfPVHeqxz1EqEFh73Q9fRO16g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 05:30:39 GMT"
+          "Value": "Sun, 02 Feb 2025 12:07:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2823,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "20l7toza8b"
+          "Value": "45y6jxkdap"
         },
         {
           "Name": "label",
@@ -2831,13 +2831,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ErMNVMP7oPta/3qvG+msqa5D0DvAN35paf9UFjrR/c4="
+          "Value": "sha256-qHawhWc15CT+TLnUySrfPVHeqxz1EqEFh73Q9fRO16g="
         }
       ]
     },
     {
-      "Route": "css/site.20l7toza8b.css.gz",
-      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\du6jjzia34-20l7toza8b.gz",
+      "Route": "css/site.45y6jxkdap.css.gz",
+      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\du6jjzia34-45y6jxkdap.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2846,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "721"
+          "Value": "841"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2854,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0P5ogPNHeyKKRzFiW63aeDim4JpSXRxNV+fEB+4ZzE8=\""
+          "Value": "\"asNEHgk5FE3T5GpmPOnKh1L3E6Lqv6WRgAOVanUlltM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 05:30:39 GMT"
+          "Value": "Sun, 02 Feb 2025 12:07:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +2876,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "20l7toza8b"
+          "Value": "45y6jxkdap"
         },
         {
           "Name": "label",
@@ -2884,18 +2884,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0P5ogPNHeyKKRzFiW63aeDim4JpSXRxNV+fEB+4ZzE8="
+          "Value": "sha256-asNEHgk5FE3T5GpmPOnKh1L3E6Lqv6WRgAOVanUlltM="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\du6jjzia34-20l7toza8b.gz",
+      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\du6jjzia34-45y6jxkdap.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001385041551"
+          "Quality": "0.001187648456"
         }
       ],
       "ResponseHeaders": [
@@ -2905,15 +2905,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "721"
+          "Value": "841"
         },
         {
           "Name": "ETag",
-          "Value": "\"0P5ogPNHeyKKRzFiW63aeDim4JpSXRxNV+fEB+4ZzE8=\""
+          "Value": "\"asNEHgk5FE3T5GpmPOnKh1L3E6Lqv6WRgAOVanUlltM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 05:30:39 GMT"
+          "Value": "Sun, 02 Feb 2025 12:07:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2933,13 +2933,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ErMNVMP7oPta/3qvG+msqa5D0DvAN35paf9UFjrR/c4=\""
+          "Value": "W/\"qHawhWc15CT+TLnUySrfPVHeqxz1EqEFh73Q9fRO16g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ErMNVMP7oPta/3qvG+msqa5D0DvAN35paf9UFjrR/c4="
+          "Value": "sha256-qHawhWc15CT+TLnUySrfPVHeqxz1EqEFh73Q9fRO16g="
         }
       ]
     },
@@ -2954,7 +2954,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1786"
+          "Value": "2102"
         },
         {
           "Name": "Content-Type",
@@ -2962,11 +2962,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ErMNVMP7oPta/3qvG+msqa5D0DvAN35paf9UFjrR/c4=\""
+          "Value": "\"qHawhWc15CT+TLnUySrfPVHeqxz1EqEFh73Q9fRO16g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 05:30:39 GMT"
+          "Value": "Sun, 02 Feb 2025 12:07:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2976,13 +2976,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ErMNVMP7oPta/3qvG+msqa5D0DvAN35paf9UFjrR/c4="
+          "Value": "sha256-qHawhWc15CT+TLnUySrfPVHeqxz1EqEFh73Q9fRO16g="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\du6jjzia34-20l7toza8b.gz",
+      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\du6jjzia34-45y6jxkdap.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2991,7 +2991,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "721"
+          "Value": "841"
         },
         {
           "Name": "Content-Type",
@@ -2999,11 +2999,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0P5ogPNHeyKKRzFiW63aeDim4JpSXRxNV+fEB+4ZzE8=\""
+          "Value": "\"asNEHgk5FE3T5GpmPOnKh1L3E6Lqv6WRgAOVanUlltM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 05:30:39 GMT"
+          "Value": "Sun, 02 Feb 2025 12:07:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3021,7 +3021,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0P5ogPNHeyKKRzFiW63aeDim4JpSXRxNV+fEB+4ZzE8="
+          "Value": "sha256-asNEHgk5FE3T5GpmPOnKh1L3E6Lqv6WRgAOVanUlltM="
         }
       ]
     },
@@ -3325,12 +3325,12 @@
     },
     {
       "Route": "HostelManagementSystem.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\occp3wl539-v4v89suq22.gz",
+      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\occp3wl539-ctkl3zf272.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001083423619"
+          "Quality": "0.000986193294"
         }
       ],
       "ResponseHeaders": [
@@ -3340,15 +3340,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "922"
+          "Value": "1013"
         },
         {
           "Name": "ETag",
-          "Value": "\"F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA=\""
+          "Value": "\"tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 06:18:49 GMT"
+          "Value": "Sun, 02 Feb 2025 12:34:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3368,13 +3368,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA=\""
+          "Value": "W/\"oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA="
+          "Value": "sha256-oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw="
         }
       ]
     },
@@ -3389,7 +3389,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2551"
+          "Value": "2839"
         },
         {
           "Name": "Content-Type",
@@ -3397,11 +3397,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA=\""
+          "Value": "\"oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 06:18:49 GMT"
+          "Value": "Sun, 02 Feb 2025 12:34:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3411,13 +3411,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA="
+          "Value": "sha256-oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw="
         }
       ]
     },
     {
       "Route": "HostelManagementSystem.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\occp3wl539-v4v89suq22.gz",
+      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\occp3wl539-ctkl3zf272.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3426,7 +3426,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "922"
+          "Value": "1013"
         },
         {
           "Name": "Content-Type",
@@ -3434,11 +3434,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA=\""
+          "Value": "\"tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 06:18:49 GMT"
+          "Value": "Sun, 02 Feb 2025 12:34:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3456,18 +3456,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA="
+          "Value": "sha256-tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY="
         }
       ]
     },
     {
-      "Route": "HostelManagementSystem.styles.css",
-      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\u47xx5fx4r-v4v89suq22.gz",
+      "Route": "HostelManagementSystem.ctkl3zf272.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\occp3wl539-ctkl3zf272.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001083423619"
+          "Quality": "0.000986193294"
         }
       ],
       "ResponseHeaders": [
@@ -3477,152 +3477,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "922"
+          "Value": "1013"
         },
         {
           "Name": "ETag",
-          "Value": "\"F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA=\""
+          "Value": "\"tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 06:18:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA="
-        }
-      ]
-    },
-    {
-      "Route": "HostelManagementSystem.styles.css",
-      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HostelManagementSystem.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2551"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 06:18:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA="
-        }
-      ]
-    },
-    {
-      "Route": "HostelManagementSystem.styles.css.gz",
-      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\u47xx5fx4r-v4v89suq22.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "922"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 06:18:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA="
-        }
-      ]
-    },
-    {
-      "Route": "HostelManagementSystem.v4v89suq22.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\occp3wl539-v4v89suq22.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001083423619"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "922"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 06:18:49 GMT"
+          "Value": "Sun, 02 Feb 2025 12:34:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3642,13 +3505,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA=\""
+          "Value": "W/\"oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v4v89suq22"
+          "Value": "ctkl3zf272"
         },
         {
           "Name": "label",
@@ -3656,12 +3519,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA="
+          "Value": "sha256-oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw="
         }
       ]
     },
     {
-      "Route": "HostelManagementSystem.v4v89suq22.bundle.scp.css",
+      "Route": "HostelManagementSystem.ctkl3zf272.bundle.scp.css",
       "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HostelManagementSystem.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3671,7 +3534,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2551"
+          "Value": "2839"
         },
         {
           "Name": "Content-Type",
@@ -3679,11 +3542,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA=\""
+          "Value": "\"oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 06:18:49 GMT"
+          "Value": "Sun, 02 Feb 2025 12:34:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3693,7 +3556,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v4v89suq22"
+          "Value": "ctkl3zf272"
         },
         {
           "Name": "label",
@@ -3701,13 +3564,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA="
+          "Value": "sha256-oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw="
         }
       ]
     },
     {
-      "Route": "HostelManagementSystem.v4v89suq22.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\occp3wl539-v4v89suq22.gz",
+      "Route": "HostelManagementSystem.ctkl3zf272.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\occp3wl539-ctkl3zf272.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3716,7 +3579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "922"
+          "Value": "1013"
         },
         {
           "Name": "Content-Type",
@@ -3724,11 +3587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA=\""
+          "Value": "\"tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 06:18:49 GMT"
+          "Value": "Sun, 02 Feb 2025 12:34:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3746,7 +3609,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v4v89suq22"
+          "Value": "ctkl3zf272"
         },
         {
           "Name": "label",
@@ -3754,18 +3617,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA="
+          "Value": "sha256-tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY="
         }
       ]
     },
     {
-      "Route": "HostelManagementSystem.v4v89suq22.styles.css",
-      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\u47xx5fx4r-v4v89suq22.gz",
+      "Route": "HostelManagementSystem.ctkl3zf272.styles.css",
+      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\u47xx5fx4r-ctkl3zf272.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001083423619"
+          "Quality": "0.000986193294"
         }
       ],
       "ResponseHeaders": [
@@ -3775,15 +3638,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "922"
+          "Value": "1013"
         },
         {
           "Name": "ETag",
-          "Value": "\"F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA=\""
+          "Value": "\"tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 06:18:49 GMT"
+          "Value": "Sun, 02 Feb 2025 12:34:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3803,13 +3666,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA=\""
+          "Value": "W/\"oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v4v89suq22"
+          "Value": "ctkl3zf272"
         },
         {
           "Name": "label",
@@ -3817,12 +3680,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA="
+          "Value": "sha256-oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw="
         }
       ]
     },
     {
-      "Route": "HostelManagementSystem.v4v89suq22.styles.css",
+      "Route": "HostelManagementSystem.ctkl3zf272.styles.css",
       "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HostelManagementSystem.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3832,7 +3695,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2551"
+          "Value": "2839"
         },
         {
           "Name": "Content-Type",
@@ -3840,11 +3703,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA=\""
+          "Value": "\"oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 06:18:49 GMT"
+          "Value": "Sun, 02 Feb 2025 12:34:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3854,7 +3717,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v4v89suq22"
+          "Value": "ctkl3zf272"
         },
         {
           "Name": "label",
@@ -3862,13 +3725,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA="
+          "Value": "sha256-oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw="
         }
       ]
     },
     {
-      "Route": "HostelManagementSystem.v4v89suq22.styles.css.gz",
-      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\u47xx5fx4r-v4v89suq22.gz",
+      "Route": "HostelManagementSystem.ctkl3zf272.styles.css.gz",
+      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\u47xx5fx4r-ctkl3zf272.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3877,7 +3740,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "922"
+          "Value": "1013"
         },
         {
           "Name": "Content-Type",
@@ -3885,11 +3748,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA=\""
+          "Value": "\"tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Feb 2025 06:18:49 GMT"
+          "Value": "Sun, 02 Feb 2025 12:34:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3907,7 +3770,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v4v89suq22"
+          "Value": "ctkl3zf272"
         },
         {
           "Name": "label",
@@ -3915,7 +3778,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-F91EJOh8MU2L9M7sQzuoLKixzCri0+Wkiv+rW1TKmCA="
+          "Value": "sha256-tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY="
+        }
+      ]
+    },
+    {
+      "Route": "HostelManagementSystem.styles.css",
+      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\u47xx5fx4r-ctkl3zf272.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000986193294"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1013"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 12:34:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw="
+        }
+      ]
+    },
+    {
+      "Route": "HostelManagementSystem.styles.css",
+      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HostelManagementSystem.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 12:34:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw="
+        }
+      ]
+    },
+    {
+      "Route": "HostelManagementSystem.styles.css.gz",
+      "AssetFile": "C:\\Users\\Waython Yesse\\Hostel-Management-System\\obj\\Debug\\net9.0\\compressed\\u47xx5fx4r-ctkl3zf272.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1013"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 12:34:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tclHZ8rKXOWYJli8CCAfD8vYpxpmQY+43SZLu42RfdY="
         }
       ]
     },

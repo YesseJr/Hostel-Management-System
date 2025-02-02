@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>20l7toza8b</Fingerprint>
-      <Integrity>ErMNVMP7oPta/3qvG+msqa5D0DvAN35paf9UFjrR/c4=</Integrity>
+      <Fingerprint>45y6jxkdap</Fingerprint>
+      <Integrity>qHawhWc15CT+TLnUySrfPVHeqxz1EqEFh73Q9fRO16g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -36,23 +36,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HostelManagementSystem.v4v89suq22.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HostelManagementSystem.ctkl3zf272.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>HostelManagementSystem</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/HostelManagementSystem</BasePath>
-      <RelativePath>HostelManagementSystem.v4v89suq22.bundle.scp.css</RelativePath>
+      <RelativePath>HostelManagementSystem.ctkl3zf272.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>v4v89suq22</Fingerprint>
-      <Integrity>n0jHsFhmupM/d+5mo/8Pl413GoKvcQrPrTaYQIthQAA=</Integrity>
+      <Fingerprint>ctkl3zf272</Fingerprint>
+      <Integrity>oBuet9oraztN21511yeXB6vfhxMPUEMxN181TYhBOzw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HostelManagementSystem.v4v89suq22.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HostelManagementSystem.ctkl3zf272.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>

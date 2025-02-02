@@ -3,7 +3,7 @@ html {
   font-size: 14px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 500px) {
   html {
     font-size: 16px;
   }
@@ -74,8 +74,9 @@ body {
 }
 
 .card-header {
-  font-size: 1.25rem;
+  font-size: 1.75rem;
   font-weight: bold;
+  background-color: rgb(5, 31, 53);
 }
 
 .card-body ul {
@@ -102,4 +103,17 @@ body {
   overflow: hidden;
   display: inline-block;
   animation: marquee 40s linear infinite;
+}
+
+footer {
+  display: flex;
+  justify-content: flex-end;
+  /* Aligns content to the right */
+  padding: 3px 5px;
+  background-color: #f8f9fa;
+  /* Optional: Background color */
+  position: fixed;
+  /* Optional: Fixes it at the bottom */
+  bottom: 0;
+  width: 100%;
 }

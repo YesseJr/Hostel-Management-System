@@ -499,7 +499,6 @@ C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\HostelManagemen
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\scopedcss\bundle\HostelManagementSystem.styles.css
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\scopedcss\projectbundle\HostelManagementSystem.bundle.scp.css
-C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\compressed\du6jjzia34-20l7toza8b.gz
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\compressed\z2buhf8tla-61n19gt1b8.gz
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\compressed\86vj9dkmwq-xtxxf3hu2r.gz
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\compressed\kar6ui27kk-bqjiyaj88i.gz
@@ -561,8 +560,6 @@ C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\compressed\yje2
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\compressed\iin98xl0y2-muycvpuwrr.gz
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\compressed\qa3rayuy5w-87fc7y1x7t.gz
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\compressed\xo96ov82qo-mlv21k5csn.gz
-C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\compressed\u47xx5fx4r-v4v89suq22.gz
-C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\compressed\occp3wl539-v4v89suq22.gz
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -578,3 +575,6 @@ C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\refint\HostelMa
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\HostelManagementSystem.pdb
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\HostelManagementSystem.genruntimeconfig.cache
 C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\ref\HostelManagementSystem.dll
+C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\compressed\du6jjzia34-45y6jxkdap.gz
+C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\compressed\u47xx5fx4r-ctkl3zf272.gz
+C:\Users\Waython Yesse\Hostel-Management-System\obj\Debug\net9.0\compressed\occp3wl539-ctkl3zf272.gz
