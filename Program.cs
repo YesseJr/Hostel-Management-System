@@ -1,5 +1,7 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using HostelManagementSystem.Data;
+using HostelManagementSystem.Models; // Ensure ApplicationUser is in this namespace
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,11 +15,10 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
         new MySqlServerVersion(new Version(8, 0, 25)) // Update MySQL version to match the one you're using
     ));
 
-builder.Services.AddDbContext<HostelContext>(options =>
-    options.UseMySql(
-        builder.Configuration.GetConnectionString("DefaultConnection"),
-        new MySqlServerVersion(new Version(8, 0, 25)) // Update MySQL version here as well
-    ));
+// Register Identity services
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultTokenProviders();
 
 // Optionally, register additional services (like logging, caching, etc.)
 builder.Services.AddRazorPages(); // If you're using Razor Pages as well
@@ -52,6 +53,7 @@ app.UseStaticFiles(); // Enable static file serving (e.g., images, JS, CSS)
 app.UseRouting(); // Set up routing
 
 // Authorization middleware (can be customized later if using authentication)
+app.UseAuthentication(); // Enable authentication
 app.UseAuthorization(); // Enable authorization
 
 // Map controller routes (default is {controller=Home}/{action=Index}/{id?})

@@ -38,5 +38,10 @@ namespace HostelManagementSystem.Controllers
 
             return View(model); // Pass data to the view
         }
+
+        public IActionResult Privacy()
+        {
+            return View();
+        }
     }
 }
